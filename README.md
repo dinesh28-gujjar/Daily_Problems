@@ -14,5 +14,10 @@ Welcome to my Daily Problems repository! This project is a collection of my solu
 ## 📈 Progress
 I aim to solve at least one problem every day to improve my problem-solving skills and consistency.
 
+## 👤 My GFG Profile
+You can track my live progress and coding streak here: 
+👉 GeeksForGreeks Profile: [https://www.geeksforgeeks.org/user/dineshyadav135]
+
 ## 🔗 Connect with me
-LinkedIn Profile: [www.linkedin.com/in/dinesh-kumar0001]
+👉 LinkedIn Profile: [www.linkedin.com/in/dinesh-kumar0001]
+
